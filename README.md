@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atis</h1>
-<h3 align="center">I'm a higschool student from Latvia 🇱🇻</h3>
+<h3 align="center">I'm a highschool student from Latvia 🇱🇻</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
