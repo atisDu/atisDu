@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atis</h1>
 <h3 align="center">I'm a highschool student from Latvia 🇱🇻</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/atis-dubrovskis-719244348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atis-dubrovskis-719244348" height="30" width="40" /></a>
 </p>
