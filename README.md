@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atis</h1>
-<h3 align="center">I'm a prospective Computer Science student from Latvia 🇱🇻</h3>
+<h3 align="center">I'm a Computer Science student from Latvia 🇱🇻</h3>
 <p align="center">
 I’m interested in software engineering, low-level systems programming, and applied mathematics.
 </p>
